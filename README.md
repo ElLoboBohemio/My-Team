@@ -1,12 +1,12 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Simple Error 404</h1>
+<h1 align="center">Team Presentation</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
-<h2 align="center">Link to <a href="https://codepen.io/bohemiolobo/full/QWpobzG" target="_blank">Demo</a></h2>
+<h2 align="center">Link to <a href="https://codepen.io/bohemiolobo/full/KKWEEbR" target="_blank">Demo</a></h2>
 
 <!-- TABLE OF CONTENTS -->
 
